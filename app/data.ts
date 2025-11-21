@@ -151,7 +151,17 @@ export const content = {
             phone: "+36 (30) 225 4993",
             email: "viktor.toman19@gmail.com",
             location: "Hungary"
-        }
+        },
+        contactForm: {
+            title: "Get in Touch",
+            name: "Name",
+            email: "Email",
+            message: "Message",
+            btnSend: "Send Message",
+            sending: "Sending...",
+            success: "Message sent successfully!",
+            error: "Something went wrong. Please try again."
+        },
     },
     hu: {
         nav: {
@@ -264,6 +274,16 @@ export const content = {
             phone: "+36 (30) 225 4993",
             email: "viktor.toman19@gmail.com",
             location: "Magyarország"
-        }
+        },
+        contactForm: {
+            title: "Írj Üzenetet",
+            name: "Név",
+            email: "Email",
+            message: "Üzenet",
+            btnSend: "Üzenet Küldése",
+            sending: "Küldés...",
+            success: "Üzenet sikeresen elküldve!",
+            error: "Hiba történt. Kérlek próbáld újra."
+        },
     }
 };
