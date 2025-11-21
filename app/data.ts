@@ -155,8 +155,8 @@ export const content = {
     },
     hu: {
         nav: {
-            title: "VIKTOR",
-            titleHighlight: "TOMÁN",
+            title: "TOMÁN",
+            titleHighlight: "VIKTOR",
             contactBtn: "Kapcsolat"
         },
         hero: {
