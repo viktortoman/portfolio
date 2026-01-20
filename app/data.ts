@@ -131,6 +131,14 @@ export const content = {
                 color: "bg-gradient-to-br from-red-800 to-rose-900"
             },
             {
+                title: "E-commerce Minicart",
+                tags: ["Alpine.js", "Vite", "Express"],
+                desc: "A lightweight and interactive shopping cart component designed for seamless e-commerce experiences.",
+                link: "https://github.com/viktortoman/portfolio-minicart",
+                viewText: "View Code",
+                color: "bg-gradient-to-br from-orange-800 to-amber-900"
+            },
+            {
                 title: "Fullstack Kanban Board",
                 tags: ["Laravel", "React", "Management"],
                 desc: "Project management tool implementing Kanban methodology with a robust Laravel API and reactive React frontend.",
@@ -252,6 +260,14 @@ export const content = {
                 link: "https://github.com/viktortoman/portfolio-realtime-poll-app-node-angular",
                 viewText: "Kód Megtekintése",
                 color: "bg-gradient-to-br from-red-800 to-rose-900"
+            },
+            {
+                title: "E-commerce Minicart",
+                tags: ["Alpine.js", "Vite", "Express"],
+                desc: "Könnyű és interaktív bevásárlókosár komponens, amelyet zökkenőmentes e-kereskedelmi élményekhez terveztek.",
+                link: "https://github.com/viktortoman/portfolio-minicart",
+                viewText: "Kód Megtekintése",
+                color: "bg-gradient-to-br from-orange-800 to-amber-900"
             },
             {
                 title: "Fullstack Kanban Board",
